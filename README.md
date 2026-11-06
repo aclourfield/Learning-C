@@ -1,2 +1,2 @@
-# Learning-C-From-Scratch
+# Learning-C
 My C learning journey.
